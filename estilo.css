@@ -32,7 +32,7 @@ ul, ol {
  }
 
  .header {
-       border: 10px solid beige; 
+        /*border: 10px solid beige; */
        display: flex;
        flex-direction: column;
        align-items: center;
@@ -40,11 +40,11 @@ ul, ol {
        
  }
  .main {
-    border: 10px solid rgb(14, 14, 13); 
+   /* border: 10px solid rgb(14, 14, 13);*/
     
  }
 .footer {
-    border: 10px solid beige; 
+   /* border: 10px solid beige; */
     }
 
 
