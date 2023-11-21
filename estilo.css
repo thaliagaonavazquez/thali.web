@@ -177,3 +177,14 @@ ul, ol {
    object-fit: cover;
 
 }
+/*seccion 5*/
+
+.seccion5 {
+    padding: 2rem;
+
+}
+
+.seccion5__titulo {
+   text-align: center;
+
+}
